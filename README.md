@@ -7,7 +7,7 @@ martin.wegmann@unibe.ch
 
 ## Content Description
 
-This contains the code for the results in Wegmann &amp; Brönnimann
+This contains the code for the results in Wegmann &amp; Brönnimann: The potential of seasonal prediction learned from Single-Model Initial-Condition Large Ensembles
 
 The Notebook folder contains 5 Notebooks
 
