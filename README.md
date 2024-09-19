@@ -1,4 +1,4 @@
-# SLP and T2M anomaly forecasts for the 20th century based on ML forecasts with SSTs as input
+# SLP and T2M anomaly forecasts for the 20th century based on ML methods with SSTs as input
 
 ##  Author
 Martin Wegmann
