@@ -1,4 +1,10 @@
 # SMILE_seas_forecast
+
+##  Author
+Martin Wegmann
+## Contact 
+martin.wegmann@unibe.ch
+
 This contains the code for the results in Wegmann &amp; Brönnimann
 
 The Notebook folder contains 5 Notebooks
