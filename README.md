@@ -1,4 +1,4 @@
-# SMILE_seas_forecast
+# SLP and T2M anomaly forecasts for the 20th century based on ML forecasts with SSTs as input
 
 ##  Author
 Martin Wegmann
